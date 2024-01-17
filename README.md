@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**davidchazanas/davidchazanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is David Chazanas and I am a software developer specialized in web development.
 
-Here are some ideas to get you started:
+📍 ~ I live in Brazil and I like to teach Tai Ji Quan when I'm not working
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 ~ I have a variety of technical skills, including:
+
+    C# / .NET / .NET CORE.
+    SQL / PostgreSQL / SQLServer
+    HTML / CSS.
+    Java / Struts 2 / Hibernate
+    Scrum / Scrum Master
+
+
+🎓 ~ I'm currently studying React, alongside with Docker
+
+
+ I'm looking for new work opportunities to start immediately!
